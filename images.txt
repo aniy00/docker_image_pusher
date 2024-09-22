@@ -21,7 +21,11 @@
 
 #nacos/nacos-server:v2.0.4
 
-redis
+#redis
+
+imdevops/ss5_proxy
+
+dperson/samba
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
