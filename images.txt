@@ -23,9 +23,11 @@
 
 #redis
 
-imdevops/ss5_proxy
+#imdevops/ss5_proxy
 
-dperson/samba
+#dperson/samba
+
+openjdk:8u342-jdk
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
