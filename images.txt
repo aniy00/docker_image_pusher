@@ -27,7 +27,9 @@
 
 #dperson/samba
 
-openjdk:8u342-jdk
+#openjdk:8u342-jdk
+
+python:3.12.3
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
