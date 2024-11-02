@@ -30,7 +30,9 @@
 #openjdk:8u342-jdk
 
 #python:3.12.3
-python:3.12.3-alpine
+#python:3.12.3-alpine
+
+thingsboard/tb-postgres
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
