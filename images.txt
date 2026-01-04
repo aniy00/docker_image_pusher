@@ -36,7 +36,9 @@
 #thingsboard/tb-postgres
 
 #dockurr/windows
-dockurr/samba
+#dockurr/samba
+
+nginx
 
 #centos:centos7
 
