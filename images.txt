@@ -38,7 +38,10 @@
 #dockurr/windows
 #dockurr/samba
 
-nginx
+#nginx
+
+jnovack/autossh:2.0.1
+jnovack/autossh:2.1
 
 #centos:centos7
 
