@@ -44,8 +44,7 @@
 #jnovack/autossh:2.1
 
 #m1k1o/neko:google-chrome
-sanster/iopaint:cpu-latest
-
+samge/iopaint:cpu
 
 #centos:centos7
 
