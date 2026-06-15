@@ -43,7 +43,8 @@
 #jnovack/autossh:2.0.1
 #jnovack/autossh:2.1
 
-m1k1o/neko:google-chrome
+#m1k1o/neko:google-chrome
+sanster/iopaint:cpu-latest
 
 #centos:centos7
 
